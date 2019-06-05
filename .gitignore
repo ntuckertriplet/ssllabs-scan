@@ -5,4 +5,6 @@ local-test-*.txt
 *.txt
 *.tar.gz
 *.json
-scanner
+hosts.txt
+host_grades.txt
+output.txt
