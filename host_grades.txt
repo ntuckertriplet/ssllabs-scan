@@ -1,9 +1,0 @@
-
-HostName:"samsung.sumtotal.host"
-"152.195.55.204":"A+"
-
-HostName:"git.amar.com"
-"76.79.190.133":"A+"
-
-HostName:"git.amar.com"
-"76.79.190.133":"F"
